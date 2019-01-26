@@ -1,2 +1,0 @@
-# ReactStatePrac_ButtonChangesDivBgColor
-Created with CodeSandbox
